@@ -17,7 +17,7 @@ Game = [dataArray{1:end-1}];
 clearvars filename delimiter startRow formatSpec fileID dataArray ans;
 %Game Data loaded.
 
-%Load Player data.
+%Load Player data (Feature selected data)
 filename = 'C:\Users\dcc\Desktop\Matlab_Projects\Machine_Intelligence\MI_Project\AR_1300features.csv';
 delimiter = ',';
 startRow = 2;
