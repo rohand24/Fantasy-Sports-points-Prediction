@@ -3,7 +3,7 @@ close all ;
 clear all;
 cd C:\Users\dcc\Desktop\Matlab_Projects\Machine_Intelligence\MI_Project
 addpath C:\Users\dcc\Desktop\Matlab_Projects\Machine_Intelligence\Rohan_Matlab_1\HW_6\libsvm-3.18\windows
-
+%This example is shown only for 1 player - Aaron Rodgers. This can be expanded to include any number of players.
 
 %Load Game Data
 filename = 'C:\Users\dcc\Desktop\Matlab_Projects\Machine_Intelligence\MI_Project\Game123.csv';
